@@ -16,4 +16,4 @@
 * [Eratos](./Number/Eratos.cpp)
 
 ### Datastruct
-* [priorityqueue](./Datastruct/priorityqueue.cpp
+* [priorityqueue](./Datastruct/priorityqueue.cpp)
