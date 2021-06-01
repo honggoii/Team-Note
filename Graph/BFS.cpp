@@ -1,5 +1,8 @@
 // BFS(Breadth-First-Search): 너비 우선 탐색
 
+// 큐 이용
+// 최단거리 이용할 때 유용!
+
 void bfs(int node) {
 	visit[node] = true;
 	q.push(node);
