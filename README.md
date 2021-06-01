@@ -1,4 +1,4 @@
 # Team-Note
 
 ### Sorting  
- * [TopologicalSorting](./docs/Sorting/TopologicalSorting.cpp)
+ * [TopologicalSorting](./Sorting/TopologicalSorting.cpp)
