@@ -17,3 +17,6 @@
 
 ### Datastruct
 * [priorityqueue](./Datastruct/priorityqueue.cpp)
+
+### Tip
+* [direction](./Tip/direction.cpp)
