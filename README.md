@@ -18,8 +18,8 @@
 ### Datastruct
 * [priorityqueue](./Datastruct/priorityqueue.cpp)
 
-### String
-* [strtok] (./String/strtok.cpp)
+### String  
+* [strtok](./String/strtok.cpp)
 
 ### Tip
 * [direction](./Tip/direction.cpp)
